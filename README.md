@@ -255,7 +255,7 @@ Currently building backend systems and software products from Tashkent.
 ## 📫 Connect With Me
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/aris1377)
+Email: daviddeveloperkh@gmail.com
 
 ---
 
