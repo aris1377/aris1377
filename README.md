@@ -244,9 +244,6 @@ Currently building backend systems and software products from Tashkent.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aris1377&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aris1377&show_icons=true&theme=radical&cache_bust=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aris1377&layout=compact&theme=radical&cache_bust=1)
 
 ---
 
